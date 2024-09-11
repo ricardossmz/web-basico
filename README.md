@@ -4,3 +4,4 @@ Este es es un repositorio para realizar pruebas del comando git y la comunicasio
 ##Comandos para carga y descarga de cambios en git 
 - git push (Permite guardar cambios en el repositorio de github
 - git pull (Permite descargar cambios en el repositorio de git hub)
+- 
