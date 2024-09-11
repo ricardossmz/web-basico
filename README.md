@@ -14,3 +14,9 @@ Este es es un repositorio para realizar pruebas del comando git y la comunicasio
 ##conflicto creado
 
 este es un parrafo agregado de manera rbritaria para generar un conflicto en la sincronizacion de los repositorios
+
+## Modificacion desde repositorio clonado 
+
+
+
+Esta en una moficicaion de un repositorio clonado para verificare que se encuentra sincronizado con el repsoitorio en la nube.
